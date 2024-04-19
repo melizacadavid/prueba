@@ -1,1 +1,2 @@
-print("hola bb")
+print("buenas tardes")
+nombre = input("ingrese por favor su nombre: ")
